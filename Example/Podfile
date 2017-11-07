@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TstoneRepo_Example' do
+  pod 'TstoneRepo', :path => '../'
+
+  target 'TstoneRepo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
