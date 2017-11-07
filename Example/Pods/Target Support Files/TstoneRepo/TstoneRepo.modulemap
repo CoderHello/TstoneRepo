@@ -1,0 +1,6 @@
+framework module TstoneRepo {
+  umbrella header "TstoneRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TstoneRepo",
+  "version": "0.1.0",
+  "summary": "TstoneRepo",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/luckmarket/TstoneRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "luckmarket": "coder1025527954@163.com"
+  },
+  "source": {
+    "git": "https://github.com/CoderHello/TstoneRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TstoneRepo/Classes/**/*"
+}
